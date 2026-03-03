@@ -12,7 +12,7 @@
 | <img src="https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png" width="16"> AnimeSail     | Indonesia  | 🔥 Active |
 | <img src="https://anoboy.be/wp-content/uploads/2024/03/cropped-cropped-favicon-anoboych-32x32-1-270x270.webp" width="16"> Anoboy        | Indonesia  | 🔥 Active |
 | <img src="https://backapi.oploverz.ac/uploads/settings/website/favicons/3161ce4d-ce90-4d07-b019-57bf64a9594e.png" width="16"> Oploverz      | Indonesia  | 🔥 Active |
-| <img src="https://otakudesu.best/wp-content/uploads/2017/06/Logo-1.png" width="16"> Otakudesu     | Indonesia  | 🔥 Active |
+| <img src="https://i.ibb.co.com/zW56BsWt/Logo-1.png" width="16"> Otakudesu     | Indonesia  | 🔥 Active |
 | <img src="https://v1.samehadaku.how/wp-content/uploads/2020/04/cropped-download-1-32x32.jpg" width="16"> Samehadaku    | Indonesia  | 🔥 Active |
 | <img src="https://i.ibb.co.com/rG4z2tMz/favicon.png" width="16"> Zoronime      | Indonesia  | 🔥 Active |
 
